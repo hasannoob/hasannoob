@@ -37,6 +37,7 @@
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/DEVELOPMENT-IPTV-00f2fe?style=for-the-badge&logo=codeforces&logoColor=black" /><br/>
       <code>Protocol Hacking</code><br/>
+      <code>Facebook Specialist</code><br/>
       <code>M3U/EPG Core</code><br/>
       <code>Streaming CDN</code>
     </td>
