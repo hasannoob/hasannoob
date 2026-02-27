@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://livefy.vercel.app" target="_blank">MD Abu Hasan</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IPTV+%26+Live+TV+Expert;Building+Livefy+Ecosystem;HSC+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Senior+Executive+-+Material+Management;BSc+in+EEE+Graduate;Full+Stack+Developer;IPTV+%26+Live+TV+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,16 +10,18 @@
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently focused on building **[Livefy](https://livefy.vercel.app)** and **[Livefy IPTV](https://livefyiptv.vercel.app)**.
-- 👯 I’m looking to collaborate on **Advanced Streaming Platforms** and **API Development**.
-- 💬 Ask me about: **PHP, JavaScript, Firebase & IPTV Server Management**.
+### 🎓 Professional Profile:
+- 💼 Currently working as **Senior Executive (Material Management)**.
+- 🎓 Completed **BSc in Electrical & Electronic Engineering (EEE)**.
+- 🔭 Passionate Developer focusing on **[Livefy](https://livefy.vercel.app)** and **[Livefy IPTV](https://livefyiptv.vercel.app)**.
+- 👯 Interested in collaborating on **Supply Chain Tech** and **Streaming Platforms**.
+- 💬 Ask me about: **Material Management, PHP, JavaScript, and IPTV Solutions**.
 - 📫 Reach me at: **hasannirob234@gmail.com**
-- 🇧🇩 Proudly developing from **Bangladesh**.
+- 🇧🇩 Based in **Bangladesh**.
 
 ---
 
-### 🌐 My Live Projects:
+### 🌐 Featured Projects:
 <p align="left">
   <a href="https://livefy.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Livefy_Main-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -34,17 +36,16 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack & Skills:
 
-| **Frontend** | **Backend** | **Database & Cloud** |
+| **Development** | **Backend & Server** | **Database & Tools** |
 | :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-### 📈 GitHub Activities:
+### 📊 GitHub Insights:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasannoob&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
@@ -53,15 +54,6 @@
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannoob&theme=dark&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasannoob&show_icons=true&theme=transparent" alt="Hasan's Snake" />
-  <br>
-  <img src="https://raw.githubusercontent.com/hasannoob/hasannoob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
