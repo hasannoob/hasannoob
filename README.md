@@ -5,7 +5,7 @@
   <br/>
 
   <!-- High-Tech Identity Terminal -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=>>+SENIOR+EXECUTIVE+-+MATERIAL+MANAGEMENT;>>+BSc+IN+ELECTRICAL+&+ELECTRONICS+ENGINEERING;>>+IPTV+INFRASTRUCTURE+EXPERT;>>+BUILDING+LIVEFY+ECOSYSTEM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=>>+SENIOR+EXECUTIVE+-+MATERIAL+MANAGEMENT;>>+BSc+IN+ELECTRICAL+&+ELECTRONICS+ENGINEERING;>>+IPTV+INFRASTRUCTURE+EXPERT;>>+BUILDING+LIVEFY+ECOSYSTEM" alt="Typing SVG" />
 </div>
 
 ---
