@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Modern Glitch Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=ABU%20HASAN&fontSize=80&fontColor=00f2fe&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1+BSc+in+EEE+%7C+%F0%9F%93%A6+Senior+Executive+%7C+%F0%9F%93%A1+IPTV+Expert&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=MD ABU%20HASAN&fontSize=80&fontColor=00f2fe&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1+BSc+in+EEE+%7C+%F0%9F%93%A6+Senior+Executive+%7C+%F0%9F%93%A1+IPTV+Expert&descSize=20&descAlignY=60" width="100%" />
 
   <br/>
 
