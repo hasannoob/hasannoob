@@ -1,98 +1,87 @@
 <div align="center">
-  <!-- Modern Hero Section -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1A1A&height=280&section=header&text=MD%20ABU%20HASAN&fontSize=80&fontColor=00D1FF&animation=fadeIn&fontAlignY=35&desc=Senior%20Executive%20•%20BSc%20in%20EEE%20•%20Full%20Stack%20Engineer&descSize=20&descAlignY=60" width="100%" />
+  <!-- Top Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=HASAN%20NOOB&fontSize=90&fontColor=00f2fe&animation=twinkling" width="100%" />
 
+  <!-- The Digital Identity -->
   <br/>
-
-  <!-- Interactive Typing Identity -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=OPTIMIZING+MATERIAL+MANAGEMENT;DESIGNING+ELECTRICAL+SYSTEMS;ARCHITECTING+LIVEFY+STREAMING;SOLVING+COMPLEX+LOGICS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=>>+SYSTEM+ARCHITECT;>>+BSC+EEE+ENGINEER;>>+MATERIAL+MANAGEMENT+PRO;>>+IPTV+ECOSYSTEM+FOUNDER" alt="Typing SVG" />
 </div>
 
 ---
 
-### ⚡ The Professional Spectrum
+### 🟢 SYSTEM STATUS: ONLINE
+> `root@hasannoob:~$` **Whoami**
+> 
+> I am **MD Abu Hasan**, a multi-disciplinary Engineer blending **Electrical Precision** with **Modern Code**. By day, I lead **Material Management** as a Senior Executive. By night, I architect the **Livefy Ecosystem**. I don't just write code; I build systems that scale.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Current_Role-Senior_Executive_@_Material_Management-00D1FF?style=for-the-badge&logo=workplace&logoColor=white" />
-<img src="https://img.shields.io/badge/Education-BSc_in_EEE-white?style=for-the-badge&logo=education&logoColor=black" />
-</p>
+---
 
+### 🚀 CORE ECOSYSTEMS (LIVE NOW)
+<div align="center">
+  <a href="https://livefy.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasannoob&repo=Livefy-Main&theme=tokyonight&show_owner=true" alt="Livefy" />
+  </a>
+  <a href="https://livefyiptv.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasannoob&repo=Livefy-IPTV&theme=tokyonight&show_owner=true" alt="Livefy IPTV" />
+  </a>
+</div>
+
+---
+
+### 🛠️ TECH STACK OVERRIDE
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,java,mysql,mongodb,firebase,supabase,nginx,linux,html,css,git,vercel,netlify,postman,visualstudio,idea" />
+  <br/>
+  <img src="https://img.shields.io/badge/Expertise-IPTV_Streaming_•_MRP_Systems_•_Power_Grid_Design-00f2fe?style=for-the-badge&logoColor=black" />
+</div>
+
+---
+
+### 📊 ANALYTICS DASHBOARD
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" valign="top">
-        <h4>🎯 Core Focus</h4>
-        <ul>
-          <li><b>Supply Chain Mastery:</b> Inventory control & material flow optimization.</li>
-          <li><b>Engineering Precision:</b> Electrical system analysis & circuit design.</li>
-          <li><b>Digital Architecture:</b> Building high-performance IPTV & OTT solutions.</li>
-        </ul>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hasannoob&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00f2fe" width="400" />
       </td>
-      <td width="50%" valign="top">
-        <h4>🚀 Key Projects</h4>
-        <ul>
-          <li><b><a href="https://livefy.vercel.app">Livefy</a>:</b> Modern Video Streaming Ecosystem.</li>
-          <li><b><a href="https://livefyiptv.vercel.app">Livefy IPTV</a>:</b> Next-gen Content Delivery Portal.</li>
-          <li><b>Material ERP:</b> Streamlining management processes.</li>
-        </ul>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannoob&theme=tokyonight&layout=compact&hide_border=true&title_color=00f2fe" width="350" />
       </td>
     </tr>
   </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasannoob&theme=tokyonight&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe" width="100%" />
 </div>
 
 ---
 
-### 🛠 Tech & Management Stack
-
+### 🏆 ARCHITECT'S TROPHIES
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,java,mysql,mongodb,firebase,supabase,nginx,vercel,netlify,git,html,css,linux,postman" />
-</p>
-
-<p align="center">
-  <i>Specialized in: <b>IPTV Infrastructure, Material Requirement Planning (MRP), & Full-Stack Systems.</b></i>
+  <img src="https://github-profile-trophy.vercel.app/?username=hasannoob&theme=tokyonight&no-frame=true&no-bg=true&column=4" />
 </p>
 
 ---
 
-### 📊 Performance Metrics
-
+### 🌐 WORKSPACE CONNECT
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasannoob&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasannoob&theme=transparent&stroke=00D1FF&fire=00D1FF&ring=00D1FF&currStreakLabel=00D1FF&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannoob&theme=transparent&layout=compact&title_color=00D1FF&text_color=ffffff&hide_border=true" width="70%" />
-</div>
-
----
-
-### 🏆 Trophies & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasannoob&theme=dracula&no-frame=true&no-bg=true&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hasannoob/hasannoob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="80%" />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
   <a href="mailto:hasannirob234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hasannirob234@gmail.com-00D1FF?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/TERMINAL_MAIL-hasannirob234@gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://livefy.vercel.app">
-    <img src="https://img.shields.io/badge/Website-Livefy.app-white?style=flat-square&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-LIVEFY.APP-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
-</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00D1FF" width="80%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00f2fe" width="100%" />
+</div>
+
+<!-- Snake Animation Footer -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasannoob&icon=5&color=0" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/hasannoob/hasannoob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hasannoob&icon=5&color=0" alt="Visitor" />
 </p>
