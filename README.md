@@ -4,8 +4,8 @@
 
   <br/>
 
-  <!-- High-Tech Identity Terminal -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=>>+SENIOR+EXECUTIVE+-+MATERIAL+MANAGEMENT;>>+BSc+IN+ELECTRICAL+&+ELECTRONICS+ENGINEERING;>>+IPTV+INFRASTRUCTURE+EXPERT;>>+BUILDING+LIVEFY+ECOSYSTEM" alt="Typing SVG" />
+  <!-- FIXED & IMPROVED High-Tech Identity Terminal -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%5B%3E%5D+EXECUTING+MATERIAL+MANAGEMENT+PROTOCOLS...;%5B%3E%5D+BSc+IN+ELECTRICAL+%26+ELECTRONIC+ENGINEERING;%5B%3E%5D+DECODING+IPTV+INFRASTRUCTURE...;%5B%3E%5D+LIVEFY+ECOSYSTEM+IS+NOW+ONLINE;%5B%3E%5D+SENIOR+EXECUTIVE+@+SUPPLY+CHAIN" alt="Typing SVG" />
 </div>
 
 ---
@@ -45,7 +45,7 @@
 
 ---
 
-### 📡 ACTIVE DEPLOYMENTS (PROJEKTS)
+### 📡 ACTIVE DEPLOYMENTS (PROJECTS)
 <div align="center">
   <p><i>Accessing high-speed nodes...</i></p>
   <a href="https://livefy.vercel.app" target="_blank">
