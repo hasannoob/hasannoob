@@ -1,79 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Md%20Abu%20Hasan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=BSc%20in%20EEE%20|%20Senior%20Executive%20(Material%20Management)%20|%20Full%20Stack%20Dev&descSize=20&descAlignY=55" width="100%" />
+  <!-- Modern Hero Section -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1A1A&height=280&section=header&text=MD%20ABU%20HASAN&fontSize=80&fontColor=00D1FF&animation=fadeIn&fontAlignY=35&desc=Senior%20Executive%20•%20BSc%20in%20EEE%20•%20Full%20Stack%20Engineer&descSize=20&descAlignY=60" width="100%" />
+
+  <br/>
+
+  <!-- Interactive Typing Identity -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=OPTIMIZING+MATERIAL+MANAGEMENT;DESIGNING+ELECTRICAL+SYSTEMS;ARCHITECTING+LIVEFY+STREAMING;SOLVING+COMPLEX+LOGICS" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Engineering+Precision+meets+Corporate+Strategy;Senior+Executive+at+Material+Management;Architect+of+Livefy+Streaming+Ecosystem;Expert+in+IPTV%2C+PHP+%26+Cloud+Solutions" alt="Typing SVG" />
-</div>
-
 ---
 
-### 📑 Executive Profile
-> **"Engineering is the foundation, Management is the execution, and Coding is the passion."**  
-আমি একজন **BSc in Electrical & Electronic Engineering (EEE)** গ্র্যাজুয়েট, যা আমাকে জটিল সমস্যা বিশ্লেষণের সক্ষমতা দিয়েছে। বর্তমানে আমি **Senior Executive (Material Management)** হিসেবে কর্মরত, যেখানে আমি Supply Chain এবং Inventory Management নিয়ে কাজ করি। পাশাপাশি, আমি একজন অভিজ্ঞ **Full Stack Developer**, বিশেষ করে IPTV এবং লাইভ স্ট্রিমিং টেকনোলজিতে আমার বিশেষ দক্ষতা রয়েছে।
+### ⚡ The Professional Spectrum
 
----
-
-### 🏗️ My Professional Pillars
-
-| 🎓 Engineering (EEE) | 💼 Corporate Management | 💻 Software Development |
-| :--- | :--- | :--- |
-| **Circuit Design & Analysis** | **Material Requirement Planning** | **Full Stack Web Solutions** |
-| **Power System Engineering** | **Inventory Control & Audit** | **IPTV & OTT Architecture** |
-| **Industrial Automation** | **Supply Chain Optimization** | **API & Database Integration** |
-| **Technical Troubleshooting** | **Vendor & Logistics Coordination** | **Cloud Deployment (CI/CD)** |
-
----
-
-### 🚀 The Livefy Ecosystem (Core Projects)
 <p align="center">
-  <a href="https://livefy.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Livefy_Main-Platform-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  &nbsp;
-  <a href="https://livefyiptv.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Livefy_IPTV-Portal-00d2ff?style=for-the-badge&logo=target" />
-  </a>
+<img src="https://img.shields.io/badge/Current_Role-Senior_Executive_@_Material_Management-00D1FF?style=for-the-badge&logo=workplace&logoColor=white" />
+<img src="https://img.shields.io/badge/Education-BSc_in_EEE-white?style=for-the-badge&logo=education&logoColor=black" />
 </p>
-
-*   **Livefy Main:** একটি অত্যাধুনিক ভিডিও স্ট্রিমিং প্ল্যাটফর্ম যা নিরবচ্ছিন্ন ইউজার এক্সপেরিয়েন্স নিশ্চিত করে।
-*   **Livefy IPTV:** উচ্চক্ষমতাসম্পন্ন কন্টেন্ট ডেলিভারি নেটওয়ার্কের ওপর ভিত্তি করে তৈরি একটি অ্যাডভান্সড আইপিটিভি পোর্টাল।
-
----
-
-### 🛠️ Comprehensive Skill Matrix
-
-#### 🔹 Technical & Engineering Skills
-- **Core:** Circuit Theory, Electrical Machines, Digital Signal Processing.
-- **Tools:** MATLAB, AutoCAD (Basic), Multisim.
-
-#### 🔹 Software Engineering (Development)
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript.
-- **Backend:** PHP (Expert), Java, Node.js (Learning).
-- **Database:** MySQL, MongoDB, Firebase Realtime/Firestore, Supabase.
-- **Server:** Nginx, Apache, Proxy Management.
-
-#### 🔹 Corporate & Management
-- **Domain:** Material Management, Procurement, ERP Operations.
-- **Leadership:** Team Coordination, Strategic Planning, Data-driven Decision Making.
-
----
-
-### 📊 Performance & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=hasannoob&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="100%" />
+      <td width="50%" valign="top">
+        <h4>🎯 Core Focus</h4>
+        <ul>
+          <li><b>Supply Chain Mastery:</b> Inventory control & material flow optimization.</li>
+          <li><b>Engineering Precision:</b> Electrical system analysis & circuit design.</li>
+          <li><b>Digital Architecture:</b> Building high-performance IPTV & OTT solutions.</li>
+        </ul>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasannoob&theme=tokyonight" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannoob&theme=tokyonight&layout=compact&width=400" width="80%" />
+      <td width="50%" valign="top">
+        <h4>🚀 Key Projects</h4>
+        <ul>
+          <li><b><a href="https://livefy.vercel.app">Livefy</a>:</b> Modern Video Streaming Ecosystem.</li>
+          <li><b><a href="https://livefyiptv.vercel.app">Livefy IPTV</a>:</b> Next-gen Content Delivery Portal.</li>
+          <li><b>Material ERP:</b> Streamlining management processes.</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -81,36 +42,57 @@
 
 ---
 
-### 🏆 Recognitions & Stats
+### 🛠 Tech & Management Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasannoob&theme=radical&no-frame=false&no-bg=true&column=4" alt="hasannoob trophies" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,java,mysql,mongodb,firebase,supabase,nginx,vercel,netlify,git,html,css,linux,postman" />
+</p>
+
+<p align="center">
+  <i>Specialized in: <b>IPTV Infrastructure, Material Requirement Planning (MRP), & Full-Stack Systems.</b></i>
 </p>
 
 ---
 
-### 🤝 Connect & Collaborate
+### 📊 Performance Metrics
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasannoob&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasannoob&theme=transparent&stroke=00D1FF&fire=00D1FF&ring=00D1FF&currStreakLabel=00D1FF&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannoob&theme=transparent&layout=compact&title_color=00D1FF&text_color=ffffff&hide_border=true" width="70%" />
+</div>
+
+---
+
+### 🏆 Trophies & Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasannoob&theme=dracula&no-frame=true&no-bg=true&column=4" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasannoob/hasannoob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="80%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="center">
   <a href="mailto:hasannirob234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-hasannirob234@gmail.com-00D1FF?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://livefy.vercel.app">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-Livefy.app-white?style=flat-square&logo=google-chrome&logoColor=black" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasannoob&icon=0&color=0" alt="visitor count" />
 </p>
 
----
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00D1FF" width="80%" />
+</div>
+
 <p align="center">
-  <i>"Optimizing materials, circuits, and code for a better tomorrow."</i><br>
-  <img src="https://raw.githubusercontent.com/hasannoob/hasannoob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://visitcount.itsvg.in/api?id=hasannoob&icon=5&color=0" alt="Visitor Count" />
 </p>
