@@ -10,7 +10,7 @@
 
 ---
 
-### 📂 SYSTEM_LOG: /whoami/md-abu-hasan
+### 📂 SYSTEM_LOG: /whoami
 > `[STATUS]: ACTIVE`  
 > `[CLEARANCE]: SYSTEM_ARCHITECT`
 > 
