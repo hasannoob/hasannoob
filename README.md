@@ -4,7 +4,7 @@
 
   <br/>
 
-  <!-- FIXED & IMPROVED High-Tech Identity Terminal -->
+  <!-- FIXED High-Tech Identity Terminal -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%5B%3E%5D+EXECUTING+MATERIAL+MANAGEMENT+PROTOCOLS...;%5B%3E%5D+BSc+IN+ELECTRICAL+%26+ELECTRONIC+ENGINEERING;%5B%3E%5D+DECODING+IPTV+INFRASTRUCTURE...;%5B%3E%5D+LIVEFY+ECOSYSTEM+IS+NOW+ONLINE;%5B%3E%5D+SENIOR+EXECUTIVE+%40+SUPPLY+CHAIN" alt="Typing SVG" />
 </div>
 
@@ -47,7 +47,6 @@
 
 ### 📡 ACTIVE DEPLOYMENTS (PROJECTS)
 <div align="center">
-  <p><i>Accessing high-speed nodes...</i></p>
   <a href="https://livefy.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/UPLINK_01-LIVEFY_MAIN-00f2fe?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
@@ -80,10 +79,11 @@
 
 ---
 
-### 🏆 ACHIEVEMENT VAULT
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasannoob&theme=radical&no-frame=true&no-bg=true&column=4" />
-</p>
+### 🏆 SYSTEM RANKING (ACHIEVEMENTS)
+<div align="center">
+  <!-- Stable Alternative to Trophies -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hasannoob&show_icons=true&theme=transparent&rank_icon=github&title_color=00f2fe&text_color=ffffff&hide_border=true&hide_title=true" width="400" />
+</div>
 
 ---
 
@@ -101,14 +101,14 @@
 <br/>
 
 <div align="center">
-  <code><b>"Analyzing circuits, managing resources, and ডিকোডিং IPTV."</b></code>
+  <code><b>"Analyzing circuits, managing resources, and decoding IPTV."</b></code>
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00f2fe&bg_color=000000" width="80%" />
 </div>
 
 <br/>
 
-<!-- Modern Stable Visitor Count -->
+<!-- Visitor Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasannoob&color=00f2fe&style=flat-square&label=SYSTEM+ACCESS+COUNT" alt="Visitor Count" />
 </p>
