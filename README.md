@@ -5,7 +5,7 @@
   <br/>
 
   <!-- FIXED & IMPROVED High-Tech Identity Terminal -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%5B%3E%5D+EXECUTING+MATERIAL+MANAGEMENT+PROTOCOLS...;%5B%3E%5D+BSc+IN+ELECTRICAL+%26+ELECTRONIC+ENGINEERING;%5B%3E%5D+DECODING+IPTV+INFRASTRUCTURE...;%5B%3E%5D+LIVEFY+ECOSYSTEM+IS+NOW+ONLINE;%5B%3E%5D+SENIOR+EXECUTIVE+@+SUPPLY+CHAIN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%5B%3E%5D+EXECUTING+MATERIAL+MANAGEMENT+PROTOCOLS...;%5B%3E%5D+BSc+IN+ELECTRICAL+%26+ELECTRONIC+ENGINEERING;%5B%3E%5D+DECODING+IPTV+INFRASTRUCTURE...;%5B%3E%5D+LIVEFY+ECOSYSTEM+IS+NOW+ONLINE;%5B%3E%5D+SENIOR+EXECUTIVE+%40+SUPPLY+CHAIN" alt="Typing SVG" />
 </div>
 
 ---
@@ -61,7 +61,6 @@
 
 ### 🧪 TECHNICAL ARSENAL
 <div align="center">
-  <!-- Skill Icons - Sleek & Uniform -->
   <img src="https://skillicons.dev/icons?i=php,js,ts,java,mysql,mongodb,firebase,supabase,nginx,linux,git,postman,vscode,docker,bash,html,css" />
   <br/>
   <img src="https://img.shields.io/badge/Industrial_Tools-ERP_Logistics_•_Multisim_•_Wireshark_•_FFmpeg-00f2fe?style=flat-square&logoColor=black" />
@@ -76,7 +75,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannoob&theme=transparent&layout=compact&title_color=00f2fe&text_color=ffffff&hide_border=true" width="75%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasannoob&theme=react-dark&bg_color=000000&color=00f2fe&line=00f2fe&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -107,11 +106,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00f2fe&bg_color=000000" width="80%" />
 </div>
 
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hasannoob/hasannoob/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
+<br/>
 
+<!-- Modern Stable Visitor Count -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasannoob&icon=5&color=0" alt="Visitor" />
+  <img src="https://komarev.com/ghpvc/?username=hasannoob&color=00f2fe&style=flat-square&label=SYSTEM+ACCESS+COUNT" alt="Visitor Count" />
 </p>
