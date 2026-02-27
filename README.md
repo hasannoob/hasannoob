@@ -102,7 +102,7 @@
 <br/>
 
 <div align="center">
-  <code><b>"Analyzing circuits, managing resources, and decoding IPTV."</b></code>
+
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00f2fe&bg_color=000000" width="80%" />
 </div>
